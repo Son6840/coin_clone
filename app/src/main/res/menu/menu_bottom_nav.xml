@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fragment_home"
+        android:title="거래소"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/fragment_favorite"
+        android:title="즐겨찾기"
+        android:icon="@drawable/ic_star"/>
+
+    <item
+        android:id="@+id/fragment_money"
+        android:title="입출금"
+        android:icon="@drawable/ic_import_export"/>
+
+    <item
+        android:id="@+id/fragment_investment"
+        android:title="투자내역"
+        android:icon="@drawable/ic_text_snipet"/>
+
+</menu>

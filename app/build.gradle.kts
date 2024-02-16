@@ -7,6 +7,10 @@ android {
     namespace = "com.son.clonecoin"
     compileSdk = 34
 
+    dataBinding {
+        enable = true
+    }
+
     defaultConfig {
         applicationId = "com.son.clonecoin"
         minSdk = 32
