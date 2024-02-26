@@ -1,4 +1,4 @@
-package com.son.clonecoin
+package com.son.clonecoin.Base
 
 import android.os.Bundle
 import android.os.PersistableBundle
